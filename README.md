@@ -48,7 +48,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | :-----------| :--------: | :----------: |
 | Welcome To Coding | Done | - |
 | Full Stack Online - Intro to Programming | Done | - |
-| Full Stack Online - Software Engineering Foundations | On progress |  |
+| Full Stack Online - Software Engineering Foundations | In progress |  |
 | Full Stack Online - Ruby |  |  |
 | Full Stack Online - SQL |  |  |
 | Full Stack Online - Rails |  |  |
@@ -72,7 +72,7 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | **Courses** | **Status** | **Evidence** |
 | :---------- | :--------: | :----------: |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Done | [CS50x Certificate](https://cs50.harvard.edu/certificates/3af5ed0a-91b4-4362-a299-cefc428dba3e) |
-| [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2) | On progress |  |
+| [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2) | In progress |  |
 | [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) |  |  |
 | [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) |  |  |
 | [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) |  |  |
