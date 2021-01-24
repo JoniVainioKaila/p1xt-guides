@@ -69,9 +69,9 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | **Courses** | **Status** | **Evidence** |
 | :---------- | :--------: | :----------: |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Done | [CS50x Certificate](https://cs50.harvard.edu/certificates/3af5ed0a-91b4-4362-a299-cefc428dba3e) |
-| [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2) | In progress |  |
-| [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) |  |  |
-| [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) |  |  |
+| [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2) | Done | - |
+| [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) | In progress |  |
+| [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) | In progress |  |
 | [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) |  |  |
 | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) |  |  |
 | [Software Testing](https://www.udacity.com/course/software-testing--cs258) |  |  |
