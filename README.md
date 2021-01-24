@@ -1,21 +1,23 @@
 # Computer Science and Programming Curriculum
 
+This is a modified version of [P1xt's Computer Science and Programming guide](https://github.com/P1xt/p1xt-guides). In this file I keep track of my progress in the curriculum and link all the stuff I have done during my learning journey. I try to complete this in 5 years but hopefully even faster. I started working on this curriculum on January 2021. Currently I am working on Tiers 0 and 1 and the objective is to have completed them before the end of 2021.
+
 ## Table of Contents
 
 ### Junior developer
 
-- [tier 0 - Programming Prep](#tier-0---web-development---fullstack-bootcamp---app-academy-open)
-- [tier 1 - Getting Started](#tier-1---getting-started)
+- [Tier 0 - Programming Prep](#tier-0---web-development---fullstack-bootcamp---app-academy-open)
+- [Tier 1 - Getting Started](#tier-1---getting-started)
 
 ### Intermediate developer
 
-- [tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
-- [tier 3 - Add More Rigor](#tier-3---add-more-rigor)
+- [Tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
+- [Tier 3 - Add More Rigor](#tier-3---add-more-rigor)
 
 ### Advanced developer
 
-- [tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
-- [tier 5 - Specialize](#tier-5---specialize)
+- [Tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
+- [Tier 5 - Specialize](#tier-5---specialize)
 
 ### Specializations
 
