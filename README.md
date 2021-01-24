@@ -2,7 +2,7 @@
 
 This is a modified version of [P1xt's Computer Science and Programming guide](https://github.com/P1xt/p1xt-guides). In this file I keep track of my progress in the curriculum and link all the stuff I have done during my learning journey. I try to complete this in 5 years but hopefully even faster. I started working on this curriculum on January 2021. Currently I am working on Tiers 0 and 1 and the objective is to have completed them before the end of 2021.
 
-I am skipping some introductory parts of the original guide of P1xt's since I have already some programming experience from my studies in University of Turku. I also skip some content related to mathematics as I am studying mathematics as my major so I have already a really solid groundation in mathematics.
+I skipped some introductory parts of the original guide of P1xt's since I have already some programming experience from my studies in University of Turku. I also skip some of the content related to mathematics as I am studying mathematics as my major so I have already a really solid groundation in mathematics.
 
 ## Table of Contents
 
