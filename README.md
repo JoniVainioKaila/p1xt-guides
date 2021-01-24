@@ -41,28 +41,26 @@ This is a modified version of [P1xt's Computer Science and Programming guide](ht
 
 ## Junior developer
 
-### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
+### Tier 0 - Programming Prep
 
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.
 
 | **Courses** | **Status** | **Evidence** |
 | :-----------| :--------: | :----------: |
 | Welcome To Coding | Done | - |
-| Full Stack Online - Intro to Programming | Done | - |
-| Full Stack Online - Software Engineering Foundations | In progress |  |
-| Full Stack Online - Ruby |  |  |
-| Full Stack Online - SQL |  |  |
-| Full Stack Online - Rails |  |  |
-| Full Stack Online - JavaScript |  |  |
-| Full Stack Online - React |  |  |
-| Full Stack Online - Full Stack Project |  |  |
-| Full Stack Online - MERN Stack Curriciulum |  |  |
-| Full Stack Online - Job Search |  | |
-| Full Stack Online - Docker |  |  |
-| Full Stack Online - GraphQL |  |  |
-| Full Stack Online - Data Structures and Algorithms |  |  |
-| **Capstone** | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. |  |  |
+| Intro to Programming | Done | - |
+| Software Engineering Foundations | In progress |  |
+| Ruby |  |  |
+| SQL |  |  |
+| Rails |  |  |
+| JavaScript |  |  |
+| React |  |  |
+| Full Stack Project |  |  |
+| MERN Stack Curriciulum |  |  |
+| Job Search |  | |
+| Docker |  |  |
+| GraphQL |  |  |
+| Data Structures and Algorithms |  |  |
 
 ### Tier 1 - Getting Started
 
