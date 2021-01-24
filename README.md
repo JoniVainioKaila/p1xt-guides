@@ -1,4 +1,4 @@
-# Computer Science and Programming
+# Computer Science and Programming Curriculum
 
 ## Table of Contents
 
