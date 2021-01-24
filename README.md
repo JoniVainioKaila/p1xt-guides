@@ -32,11 +32,11 @@ This is a modified version of [P1xt's Computer Science and Programming guide](ht
 
 ### Advanced Specializations
 
-- [Computer Science - Algorithms](./specializations/algorithms.md) -Suggested for Tier 2 or later
-- [Computer Science - Advanced Algorithms](./specializations/advanced-algorithms.md) - Computer Science - Algorithms is a pre-requisite
-- [Computer Science - Intensive](./specializations/computer_science.md) - Suggested for Tier 4 or later
-- [Data Science I](./specializations/data-science-i.md) - Suggested for Tier 2 or later
-- [Data Science II](./specializations/data-science-ii.md) - Data Science I is a pre-requisite
+- [Computer Science - Algorithms](./specializations/algorithms.md)
+- [Computer Science - Advanced Algorithms](./specializations/advanced-algorithms.md)
+- [Computer Science - Intensive](./specializations/computer_science.md)
+- [Data Science I](./specializations/data-science-i.md)
+- [Data Science II](./specializations/data-science-ii.md)
 
 <br>
 
