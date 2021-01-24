@@ -22,7 +22,6 @@ This is a modified version of [P1xt's Computer Science and Programming guide](ht
 ### Specializations
 
 - [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2020](./specializations/full_stack_open_2020.md)
-- [Web Development - Fullstack Bootcamp - The Odin Project - Full Stack Ruby on Rails](./specializations/the_odin_project_ruby.md)
 - [Web Development - Fullstack Bootcamp - The Odin Project - Full Stack JavaScript](./specializations/the_odin_project_javascript.md)
 - [Web Development - Frontend](./specializations/frontend.md)
 - [Web Development - Backend](./specializations/backend.md)
