@@ -2,7 +2,7 @@
 
 This is a modified version of [P1xt's Computer Science and Programming guide](https://github.com/P1xt/p1xt-guides). In this file I keep track of my progress in the curriculum and link all the stuff I have done during my learning journey. I try to complete this in 5 years but hopefully even faster. I started working on this curriculum on January 2021. Currently I am working on Tiers 0 and 1 and the objective is to have completed them before the end of 2021.
 
-I skipped some introductory parts of the original guide of P1xt's since I have already some programming experience from my studies in University of Turku. I also skip some of the content related to mathematics as I am studying mathematics as my major so I have already a really solid groundation in mathematics.
+I skipped some introductory parts of the original guide since I have already some programming experience from my studies in University of Turku. I also skip some of the content related to mathematics as I am studying mathematics as my major so I already have a really broad knowledge of mathematics.
 
 ## Table of Contents
 
@@ -72,8 +72,8 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | :---------- | :--------: | :----------: |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Done | [CS50x Certificate](https://cs50.harvard.edu/certificates/3af5ed0a-91b4-4362-a299-cefc428dba3e) |
 | [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) | In progress |  |
-| [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) | In progress |  |
-| [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) |  |  |
+| [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) | Done | - |
+| [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | In progress |  |
 | [Software Testing](https://www.udacity.com/course/software-testing--cs258) |  |  |
 | [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) |  |  |
 | **Reading** | **Status** | **Evidence** |
