@@ -51,10 +51,10 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | :-----------| :--------: | :----------: |
 | Welcome To Coding | Done | - |
 | Intro to Programming | Done | - |
-| Software Engineering Foundations | In progress |  |
-| Ruby |  |  |
-| SQL |  |  |
-| Rails |  |  |
+| Software Engineering Foundations | Done | [GitHub](https://github.com/Jon1VK/app-academy-open/tree/main/00_software_engineering_foundations) |
+| Ruby | Done | [GitHub](https://github.com/Jon1VK/app-academy-open/tree/main/01_ruby) |
+| SQL | Done | [GitHub](https://github.com/Jon1VK/app-academy-open/tree/main/02_sql) |
+| Rails | In progress |  |
 | JavaScript |  |  |
 | React |  |  |
 | Full Stack Project |  |  |
