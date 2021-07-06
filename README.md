@@ -73,7 +73,7 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Done | [CS50x Certificate](https://cs50.harvard.edu/certificates/3af5ed0a-91b4-4362-a299-cefc428dba3e) |
 | [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) | In progress |  |
 | [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) | Done | - |
-| [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | In progress |  |
+| [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Done | - |
 | [Software Testing](https://www.udacity.com/course/software-testing--cs258) |  |  |
 | [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) |  |  |
 | **Reading** | **Status** | **Evidence** |
